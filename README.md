@@ -1,2 +1,2 @@
 # TrustButVerify_YourData
-This repository is meant to hold an example of how one should properly curate materials informatics data.
+This repository holds an example of how one could properly curate materials informatics data.
